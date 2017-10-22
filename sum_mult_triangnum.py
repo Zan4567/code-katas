@@ -1,4 +1,4 @@
-'''.'''
+'''solutions are locked for kata "far above your rank"'''
 
 def sum_mult_triangnum(n, m):
     '''.'''

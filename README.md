@@ -12,6 +12,12 @@
 - **Tests**: `test_sum_mult_triangnum.py`
 - **URL**: [challenge url](http://www.codewars.com/kata/get-the-sum-of-multiples-of-triangular-numbers)
 
+**Persistent Bugger. (6th kyu)**
+
+- **Module**: `persistence.py`
+- **Tests**: `test_persistence.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/persistent-bugger)
+
 **Title (xth kyu)**
 
 - **Module**: `module.py`
