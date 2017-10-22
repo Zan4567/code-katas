@@ -9,7 +9,8 @@ def persistence(n):
 '''
 
 def persistence(n):
-    ''''''
+    '''return the persistence of the given number: the number of times needed 
+    to multiply the digits of the number together to get a 1-digit number'''
     if n < 10: return 0
 
     digits = []
