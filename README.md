@@ -23,9 +23,3 @@
 - **Module**: `sum_without_highest_and_lowest_number.py`
 - **Tests**: `test_sum_without_highest_and_lowest_number.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/sum-without-highest-and-lowest-number)
-
-**Title (xth kyu)**
-
-- **Module**: `module.py`
-- **Tests**: `test_module.py`
-- **URL**: [challenge url]()
