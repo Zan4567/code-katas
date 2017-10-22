@@ -1,4 +1,6 @@
-'''solutions are locked for kata "far above your rank"'''
+'''
+I was able to get it working, but it times out on the official submission.
+solutions are locked for kata "far above your rank"'''
 
 def sum_mult_triangnum(n, m):
     '''.'''

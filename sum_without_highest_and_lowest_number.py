@@ -6,7 +6,7 @@ def sum_array(arr):
 '''
 
 def sum_array(arr):
-    '''actually a list'''
+    '''return the sum of the elements of a list, except the largest and smallest values'''
     if arr is None: return 0
     if len(arr) <= 2: return 0
 
